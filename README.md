@@ -1,14 +1,15 @@
 ### Just say hello! 🤙🏻
 
-I'm a student 👨‍🎓 at the university of applied science in Leiden (The Netherlands) and I study computer science specialized in the field of interaction technology. Is there already going to ring a 🔔?
-
-This mainly falls in the area of a UX / UI developer. I always say: we build bridges so that a user can use computer systems, websites or apps in the most pleasant way possible.
+I'm a student 👨‍🎓 at the university of applied science in Leiden (The Netherlands) and I study computer science specialized in the field of interaction technology. Is there already going to ring a 🔔? This mainly falls in the area of a UX / UI developer. I always say: we build bridges so that a user can use computer systems, websites or apps in the most pleasant way possible.
 
 But be welcome! Take a look around and if you have any questions, feel free to ask them via email or socials!
 
 <p align="center">
     <a href="https://student-techlife.com">
         <img src="https://raw.githubusercontent.com/MikeCodesDotNET/MikeCodesDotNET/a8abbf37441f3253f74ea255a47f289208d7568c/Resources/personalBlog.svg" alt="Personal" style="vertical-align:top; margin:4px">
+    </a>
+    <a href="https://www.linkedin.com/in/klaasschoute/">
+        <img src="https://raw.githubusercontent.com/klaasnicolaas/klaasnicolaas/master/svg/social/linkedin.svg" alt="LinkedIn" style="vertical-align:top; margin:4px">
     </a>
 </p>
 
@@ -46,20 +47,6 @@ For early 2021 I am looking for an internship, in the field of hard and software
     </a>
     <a href="https://reactjs.org">
         <img src="https://raw.githubusercontent.com/klaasnicolaas/klaasnicolaas/master/svg/dev/frameworks/react.svg" alt="react" style="vertical-align:top; margin:4px">
-    </a>
-</p>
-
----
-### 📢 Find me elsewhere
-<p align="center">
-    <a href="https://twitter.com/klaasnicolaas">
-    <img src="https://raw.githubusercontent.com/klaasnicolaas/klaasnicolaas/master/svg/social/twitter.svg" alt="Twitter" style="vertical-align:top; margin:4px">
-    </a>
-    <a href="https://www.linkedin.com/in/klaasschoute/">
-    <img src="https://raw.githubusercontent.com/klaasnicolaas/klaasnicolaas/master/svg/social/linkedin.svg" alt="LinkedIn" style="vertical-align:top; margin:4px">
-    </a>
-    <a href="https://www.instagram.com/klaasnicolaas/">
-    <img src="https://raw.githubusercontent.com/klaasnicolaas/klaasnicolaas/master/svg/social/instagram.svg" alt="Instagram" style="vertical-align:top; margin:4px">
     </a>
 </p>
 
