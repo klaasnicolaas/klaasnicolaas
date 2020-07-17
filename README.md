@@ -9,7 +9,7 @@ But be welcome! Take a look around and if you have any questions, feel free to a
         <img src="https://raw.githubusercontent.com/MikeCodesDotNET/MikeCodesDotNET/a8abbf37441f3253f74ea255a47f289208d7568c/Resources/personalBlog.svg" alt="Personal" style="vertical-align:top; margin:4px">
     </a>
     <a href="https://www.linkedin.com/in/klaasschoute/">
-        <img src="https://raw.githubusercontent.com/klaasnicolaas/klaasnicolaas/master/svg/social/linkedin.svg" alt="LinkedIn" style="vertical-align:top; margin:4px">
+        <img src="https://raw.githubusercontent.com/klaasnicolaas/ColoredBadges/master/svg/social/linkedin.svg" alt="LinkedIn" style="vertical-align:top; margin:4px">
     </a>
 </p>
 
@@ -30,17 +30,6 @@ For early 2021 I am looking for an internship, in the field of hard and software
     <img src="https://raw.githubusercontent.com/klaasnicolaas/ColoredBadges/master/svg/dev/languages/php.svg" alt="php" style="vertical-align:top; margin:4px">
     <img src="https://raw.githubusercontent.com/klaasnicolaas/ColoredBadges/master/svg/dev/languages/python.svg" alt="python" style="vertical-align:top; margin:4px">
     <img src="https://raw.githubusercontent.com/klaasnicolaas/ColoredBadges/master/svg/dev/languages/java.svg" alt="java" style="vertical-align:top; margin:4px">
-</p>
-
----
-#### 🧰 Working with
-<p align="center">
-    <a href="https://code.visualstudio.com">
-        <img src="https://raw.githubusercontent.com/klaasnicolaas/ColoredBadges/master/svg/dev/tools/visualstudio_code.svg" alt="vscode" style="vertical-align:top; margin:4px">
-    </a>
-    <a href="https://www.jetbrains.com/pycharm">
-        <img src="https://raw.githubusercontent.com/klaasnicolaas/ColoredBadges/master/svg/dev/tools/jetbrains_pycharm.svg" alt="pycharm" style="vertical-align:top; margin:4px">
-    </a>
     <a href="https://www.docker.com">
         <img src="https://raw.githubusercontent.com/klaasnicolaas/ColoredBadges/master/svg/dev/tools/docker.svg" alt="docker" style="vertical-align:top; margin:4px">
     </a>
@@ -49,6 +38,32 @@ For early 2021 I am looking for an internship, in the field of hard and software
     </a>
     <a href="https://reactjs.org">
         <img src="https://raw.githubusercontent.com/klaasnicolaas/ColoredBadges/master/svg/dev/frameworks/react.svg" alt="react" style="vertical-align:top; margin:4px">
+    </a>
+    <a href="https://getbootstrap.com">
+        <img src="https://raw.githubusercontent.com/klaasnicolaas/ColoredBadges/master/svg/dev/frameworks/bootstrap.svg" alt="bootstrap" style="vertical-align:top; margin:4px">
+    </a>
+    <a href="https://git-scm.com">
+        <img src="https://raw.githubusercontent.com/klaasnicolaas/ColoredBadges/master/svg/dev/tools/git.svg" alt="git" style="vertical-align:top; margin:4px">
+    </a>
+</p>
+
+---
+#### 🧰 My tool / service box
+<p align="center">
+    <a href="https://code.visualstudio.com">
+        <img src="https://raw.githubusercontent.com/klaasnicolaas/ColoredBadges/master/svg/dev/tools/visualstudio_code.svg" alt="vscode" style="vertical-align:top; margin:4px">
+    </a>
+    <a href="https://developer.android.com/studio">
+        <img src="https://raw.githubusercontent.com/klaasnicolaas/ColoredBadges/master/svg/dev/tools/android_studio.svg" alt="android-studio" style="vertical-align:top; margin:4px">
+    </a>
+    <a href="https://www.digitalocean.com">
+        <img src="https://raw.githubusercontent.com/klaasnicolaas/ColoredBadges/master/svg/dev/services/digitalocean.svg" alt="digitalocean" style="vertical-align:top; margin:4px">
+    </a>
+    <a href="https://www.github.com">
+        <img src="https://raw.githubusercontent.com/klaasnicolaas/ColoredBadges/master/svg/dev/services/github.svg" alt="github" style="vertical-align:top; margin:4px">
+    </a>
+    <a href="https://www.jetbrains.com/pycharm">
+        <img src="https://raw.githubusercontent.com/klaasnicolaas/ColoredBadges/master/svg/dev/tools/jetbrains_pycharm.svg" alt="pycharm" style="vertical-align:top; margin:4px">
     </a>
 </p>
 
