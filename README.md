@@ -42,6 +42,9 @@ For early 2021 I am looking for an internship, in the field of hard and software
     <a href="https://getbootstrap.com">
         <img src="https://raw.githubusercontent.com/klaasnicolaas/ColoredBadges/master/svg/dev/frameworks/bootstrap.svg" alt="bootstrap" style="vertical-align:top; margin:4px">
     </a>
+    <a href="https://jquery.com">
+        <img src="https://raw.githubusercontent.com/klaasnicolaas/ColoredBadges/master/svg/dev/frameworks/jquery.svg" alt="jquery" style="vertical-align:top; margin:4px">
+    </a>
     <a href="https://git-scm.com">
         <img src="https://raw.githubusercontent.com/klaasnicolaas/ColoredBadges/master/svg/dev/tools/git.svg" alt="git" style="vertical-align:top; margin:4px">
     </a>
