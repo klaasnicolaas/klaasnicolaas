@@ -23,30 +23,32 @@ For early 2021 I am looking for an internship, in the field of hard and software
 
 #### 🌠 My knowledge
 <p align="center">
-    <img src="https://raw.githubusercontent.com/klaasnicolaas/klaasnicolaas/master/svg/dev/languages/html.svg" alt="html" style="vertical-align:top; margin:4px">
-    <img src="https://raw.githubusercontent.com/klaasnicolaas/klaasnicolaas/master/svg/dev/languages/java.svg" alt="java" style="vertical-align:top; margin:4px">
-    <img src="https://raw.githubusercontent.com/klaasnicolaas/klaasnicolaas/master/svg/dev/languages/js.svg" alt="javascript" style="vertical-align:top; margin:4px">
-    <img src="https://raw.githubusercontent.com/klaasnicolaas/klaasnicolaas/master/svg/dev/languages/php.svg" alt="php" style="vertical-align:top; margin:4px">
-    <img src="https://raw.githubusercontent.com/klaasnicolaas/klaasnicolaas/master/svg/dev/languages/python.svg" alt="python" style="vertical-align:top; margin:4px">
+    <img src="https://raw.githubusercontent.com/klaasnicolaas/ColoredBadges/master/svg/dev/languages/html.svg" alt="html" style="vertical-align:top; margin:4px">
+    <img src="https://raw.githubusercontent.com/klaasnicolaas/ColoredBadges/master/svg/dev/languages/css3.svg" alt="css3" style="vertical-align:top; margin:4px">
+    <img src="https://raw.githubusercontent.com/klaasnicolaas/ColoredBadges/master/svg/dev/languages/sass.svg" alt="sass" style="vertical-align:top; margin:4px">
+    <img src="https://raw.githubusercontent.com/klaasnicolaas/ColoredBadges/master/svg/dev/languages/js.svg" alt="javascript" style="vertical-align:top; margin:4px">
+    <img src="https://raw.githubusercontent.com/klaasnicolaas/ColoredBadges/master/svg/dev/languages/php.svg" alt="php" style="vertical-align:top; margin:4px">
+    <img src="https://raw.githubusercontent.com/klaasnicolaas/ColoredBadges/master/svg/dev/languages/python.svg" alt="python" style="vertical-align:top; margin:4px">
+    <img src="https://raw.githubusercontent.com/klaasnicolaas/ColoredBadges/master/svg/dev/languages/java.svg" alt="java" style="vertical-align:top; margin:4px">
 </p>
 
 ---
 #### 🧰 Working with
 <p align="center">
     <a href="https://code.visualstudio.com">
-        <img src="https://raw.githubusercontent.com/klaasnicolaas/klaasnicolaas/master/svg/dev/tools/visualstudio_code.svg" alt="vscode" style="vertical-align:top; margin:4px">
+        <img src="https://raw.githubusercontent.com/klaasnicolaas/ColoredBadges/master/svg/dev/tools/visualstudio_code.svg" alt="vscode" style="vertical-align:top; margin:4px">
     </a>
     <a href="https://www.jetbrains.com/pycharm">
-        <img src="https://raw.githubusercontent.com/klaasnicolaas/klaasnicolaas/master/svg/dev/tools/jetbrains_pycharm.svg" alt="pycharm" style="vertical-align:top; margin:4px">
+        <img src="https://raw.githubusercontent.com/klaasnicolaas/ColoredBadges/master/svg/dev/tools/jetbrains_pycharm.svg" alt="pycharm" style="vertical-align:top; margin:4px">
     </a>
     <a href="https://www.docker.com">
-        <img src="https://raw.githubusercontent.com/klaasnicolaas/klaasnicolaas/master/svg/dev/tools/docker.svg" alt="docker" style="vertical-align:top; margin:4px">
+        <img src="https://raw.githubusercontent.com/klaasnicolaas/ColoredBadges/master/svg/dev/tools/docker.svg" alt="docker" style="vertical-align:top; margin:4px">
     </a>
     <a href="https://laravel.com">
-        <img src="https://raw.githubusercontent.com/klaasnicolaas/klaasnicolaas/master/svg/dev/frameworks/laravel.svg" alt="laravel" style="vertical-align:top; margin:4px">
+        <img src="https://raw.githubusercontent.com/klaasnicolaas/ColoredBadges/master/svg/dev/frameworks/laravel.svg" alt="laravel" style="vertical-align:top; margin:4px">
     </a>
     <a href="https://reactjs.org">
-        <img src="https://raw.githubusercontent.com/klaasnicolaas/klaasnicolaas/master/svg/dev/frameworks/react.svg" alt="react" style="vertical-align:top; margin:4px">
+        <img src="https://raw.githubusercontent.com/klaasnicolaas/ColoredBadges/master/svg/dev/frameworks/react.svg" alt="react" style="vertical-align:top; margin:4px">
     </a>
 </p>
 
