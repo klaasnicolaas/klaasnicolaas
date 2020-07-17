@@ -14,10 +14,20 @@ But be welcome! Take a look around and if you have any questions, feel free to a
 </p>
 
 ---
-
 #### 👔 I'm looking for an internship
 
 For early 2021 I am looking for an internship, in the field of hard and software development and in the area of North or South Holland. If you can offer an internship, or if you can further inform me about possible companies. Then I can be reached (in Dutch) via my contact details here on the left.
+
+---
+#### 💻 My work
+
+My profile mainly contains contributions for Home Assistant (documentation), home configurations of HA and other side projects. But my head is full of ideas 🤯, so more (fun) project repositories will be added in the future!
+
+<p align="center">
+    <a href="https://www.home-assistant.io">
+        <img src="https://raw.githubusercontent.com/klaasnicolaas/ColoredBadges/prod/svg/dev/tools/home_assistant_blue.svg" alt="home-assistant" style="vertical-align:top; margin:4px">
+    </a>
+</p>
 
 ---
 
@@ -72,7 +82,7 @@ For early 2021 I am looking for an internship, in the field of hard and software
 
 <br>
 
-![Klaasnicolaas github stats](https://github-readme-stats-beryl.vercel.app/api?username=klaasnicolaas&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+![Klaasnicolaas github stats](https://github-readme-stats-beryl.vercel.app/api?username=klaasnicolaas&show_icons=true)
 
 <!--
 **klaasnicolaas/klaasnicolaas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
