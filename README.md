@@ -72,6 +72,9 @@ My profile mainly contains contributions for Home Assistant (documentation), hom
     <a href="https://www.digitalocean.com">
         <img src="https://raw.githubusercontent.com/klaasnicolaas/ColoredBadges/master/svg/dev/services/digitalocean.svg" alt="digitalocean" style="vertical-align:top; margin:4px">
     </a>
+    <a href="https://www.scaleway.com/en">
+        <img src="https://raw.githubusercontent.com/klaasnicolaas/ColoredBadges/prod/svg/dev/services/scaleway.svg" alt="scaleway" style="vertical-align:top; margin:4px">
+    </a>
     <a href="https://www.github.com">
         <img src="https://raw.githubusercontent.com/klaasnicolaas/ColoredBadges/master/svg/dev/services/github.svg" alt="github" style="vertical-align:top; margin:4px">
     </a>
