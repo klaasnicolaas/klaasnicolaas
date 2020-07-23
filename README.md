@@ -56,7 +56,7 @@ My profile mainly contains contributions for Home Assistant (documentation), hom
         <img src="https://raw.githubusercontent.com/klaasnicolaas/ColoredBadges/master/svg/dev/frameworks/jquery.svg" alt="jquery" style="vertical-align:top; margin:4px">
     </a>
     <a href="https://git-scm.com">
-        <img src="https://raw.githubusercontent.com/klaasnicolaas/ColoredBadges/master/svg/dev/tools/git.svg" alt="git" style="vertical-align:top; margin:4px">
+        <img src="https://raw.githubusercontent.com/klaasnicolaas/ColoredBadges/prod/svg/dev/tools/git.svg" alt="git" style="vertical-align:top; margin:4px">
     </a>
 </p>
 
@@ -76,7 +76,7 @@ My profile mainly contains contributions for Home Assistant (documentation), hom
         <img src="https://raw.githubusercontent.com/klaasnicolaas/ColoredBadges/prod/svg/dev/services/scaleway.svg" alt="scaleway" style="vertical-align:top; margin:4px">
     </a>
     <a href="https://www.github.com">
-        <img src="https://raw.githubusercontent.com/klaasnicolaas/ColoredBadges/master/svg/dev/services/github.svg" alt="github" style="vertical-align:top; margin:4px">
+        <img src="https://raw.githubusercontent.com/klaasnicolaas/ColoredBadges/prod/svg/dev/services/github.svg" alt="github" style="vertical-align:top; margin:4px">
     </a>
     <a href="https://www.jetbrains.com/pycharm">
         <img src="https://raw.githubusercontent.com/klaasnicolaas/ColoredBadges/master/svg/dev/tools/jetbrains_pycharm.svg" alt="pycharm" style="vertical-align:top; margin:4px">
