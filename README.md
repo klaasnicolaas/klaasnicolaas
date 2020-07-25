@@ -85,4 +85,4 @@ My profile mainly contains contributions for Home Assistant (documentation), hom
 
 <br>
 
-![Top Langs](https://github-readme-stats-beryl.vercel.app/api/top-langs/?username=klaasnicolaas&hide=["Ruby","Shell"]) ![Klaasnicolaas github stats](https://github-readme-stats-beryl.vercel.app/api?username=klaasnicolaas&show_icons=true)
+![Top Langs](https://github-readme-stats-beryl.vercel.app/api/top-langs/?username=klaasnicolaas&hide=Ruby,Shell) ![Klaasnicolaas github stats](https://github-readme-stats-beryl.vercel.app/api?username=klaasnicolaas&count_private=true&show_icons=true)
