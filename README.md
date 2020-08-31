@@ -19,9 +19,9 @@ But be welcome! Take a look around and if you have any questions, feel free to a
 For early 2021 I am looking for an internship, in the field of hard and software development and in the area of North or South Holland. If you can offer an internship, or if you can further inform me about possible companies. Then I can be reached (in Dutch) via my contact details here on the left.
 
 ---
-#### 💻 My work
+#### 💻 My work / projeccts
 
-My profile mainly contains contributions for Home Assistant (documentation), home configurations of HA and other side projects. But my head is full of ideas 🤯, so more (fun) project repositories will be added in the future!
+My profile mainly contains contributions for Home Assistant (documentation), home configurations of HA and other side projects. But my head is full of ideas 🤯, so more (fun) project repositories will be added in the future! On my blog website you will find more information about my own Home Assistant configs.
 
 <p align="center">
     <a href="https://www.home-assistant.io">
