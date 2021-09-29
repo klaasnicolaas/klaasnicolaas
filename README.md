@@ -1,6 +1,6 @@
 ### Just say hello! 🤙🏻
 
-I'm a student 👨‍🎓 at the university of applied science in Leiden (The Netherlands) and I study computer science specialized in the field of interaction technology. Is there already going to ring a 🔔? This mainly falls in the area of a UX / UI developer. I always say: we build bridges so that a user can use computer systems, websites or apps in the most pleasant way possible.
+I'm a student 👨‍🎓 at the university of applied science in Leiden (The Netherlands) and I study computer science specialized in the field of interaction technology. Is there already going to ring a 🔔? I always say: we build bridges so that a user can use computer systems, websites or apps in the most pleasant way possible.
 
 But be welcome! Take a look around and if you have any questions, feel free to ask them via email or socials!
 
@@ -8,15 +8,19 @@ But be welcome! Take a look around and if you have any questions, feel free to a
     <a href="https://student-techlife.com">
         <img src="https://raw.githubusercontent.com/MikeCodesDotNET/MikeCodesDotNET/a8abbf37441f3253f74ea255a47f289208d7568c/Resources/personalBlog.svg" alt="Personal" style="vertical-align:top; margin:4px">
     </a>
-    <a href="https://www.linkedin.com/in/klaasschoute/">
+    <a href="https://www.linkedin.com/in/klaasschoute">
         <img src="https://raw.githubusercontent.com/klaasnicolaas/ColoredBadges/master/svg/social/linkedin.svg" alt="LinkedIn" style="vertical-align:top; margin:4px">
     </a>
+    <a href="https://twitter.com/klaasnicolaas">
+        <img src="https://raw.githubusercontent.com/klaasnicolaas/ColoredBadges/master/svg/social/twitter.svg" alt="Twitter" style="vertical-align:top; margin:4px">
+    </a>
+    <img alt="GitHub Sponsors" src="https://img.shields.io/github/sponsors/klaasnicolaas?style=for-the-badge" style="vertical-align:top; margin:4px">
 </p>
 
 ---
-#### 💻 My work / projeccts
+### 🚀 Projects
 
-My profile mainly contains contributions for Home Assistant (documentation), home configurations of HA and other side projects. But my head is full of ideas 🤯, so more (fun) project repositories will be added in the future! On my blog website you will find more information about my own Home Assistant configs.
+My profile mainly contains contributions for Home Assistant (home configurations and integrations), many Laravel websites and python packages for various integrations. But my head is full of ideas 🤯, so more (fun) project repositories will be added in the future! On my blog website you will find more information about my own Home Assistant configs.
 
 <p align="center">
     <a href="https://www.home-assistant.io">
@@ -24,9 +28,21 @@ My profile mainly contains contributions for Home Assistant (documentation), hom
     </a>
 </p>
 
+#### 🔨 Hacktoberfest 2021
+
+October is THE month to contribute to an open source project, the following repositories of mine are participating in Hacktoberfest 2021:
+
+- [Home Assistant Glow](https://github.com/klaasnicolaas/home-assistant-glow)
+- [Python - Omnik Inverter](https://github.com/klaasnicolaas/python-omnikinverter)
+- [Python - P1 Monitor](https://github.com/klaasnicolaas/python-p1monitor)
+- [Garages Amsterdam](https://github.com/klaasnicolaas/garages_amsterdam)
+
 ---
 
-#### 🌠 My knowledge
+### 🌠 My knowledge
+
+In recent years I have gained a lot of knowledge in various programming languages, frameworks and other systems.
+
 <p align="center">
     <img src="https://raw.githubusercontent.com/klaasnicolaas/ColoredBadges/master/svg/dev/languages/html.svg" alt="html" style="vertical-align:top; margin:4px">
     <img src="https://raw.githubusercontent.com/klaasnicolaas/ColoredBadges/master/svg/dev/languages/css3.svg" alt="css3" style="vertical-align:top; margin:4px">
@@ -56,7 +72,10 @@ My profile mainly contains contributions for Home Assistant (documentation), hom
 </p>
 
 ---
-#### 🧰 My tool / service box
+### 🧰 Tools / Service box
+
+I'm familiar with the following platforms or software programs and of course this list is far from complete
+
 <p align="center">
     <a href="https://code.visualstudio.com">
         <img src="https://raw.githubusercontent.com/klaasnicolaas/ColoredBadges/master/svg/dev/tools/visualstudio_code.svg" alt="vscode" style="vertical-align:top; margin:4px">
