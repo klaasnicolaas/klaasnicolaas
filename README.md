@@ -28,14 +28,14 @@ My profile mainly contains contributions for Home Assistant (home configurations
     </a>
 </p>
 
-#### 🔨 Hacktoberfest 2021
+<!-- #### 🔨 Hacktoberfest 2021
 
 October is THE month to contribute to an open source project, the following repositories of mine are participating in Hacktoberfest 2021:
 
 - [Home Assistant Glow](https://github.com/klaasnicolaas/home-assistant-glow)
 - [Python - Omnik Inverter](https://github.com/klaasnicolaas/python-omnikinverter)
 - [Python - P1 Monitor](https://github.com/klaasnicolaas/python-p1monitor)
-- [Garages Amsterdam](https://github.com/klaasnicolaas/garages_amsterdam)
+- [Garages Amsterdam](https://github.com/klaasnicolaas/garages_amsterdam) -->
 
 ---
 
