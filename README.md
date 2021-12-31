@@ -1,6 +1,6 @@
 ### Just say hello! 🤙🏻
 
-I'm a student 👨‍🎓 at the university of applied science in Leiden (The Netherlands) and I study computer science specialized in the field of interaction technology. Is there already going to ring a 🔔? I always say: we build bridges so that a user can use computer systems, websites or apps in the most pleasant way possible.
+I'm a student 👨‍🎓 at the university of applied science in Leiden (The Netherlands) and I study computer science specialized in the field of interaction technology (UX/UI). Is there already going to ring a 🔔? I always say: _"We build bridges so that a user can use systems, websites or apps in the most pleasant way possible"_.
 
 But be welcome! Take a look around and if you have any questions, feel free to ask them via email or socials!
 
@@ -20,13 +20,21 @@ But be welcome! Take a look around and if you have any questions, feel free to a
 ---
 ### 🚀 Projects
 
-My profile mainly contains contributions for Home Assistant (home configurations and integrations), many Laravel websites and python packages for various integrations. But my head is full of ideas 🤯, so more (fun) project repositories will be added in the future! On my blog website you will find more information about my own Home Assistant configs.
+As you can see I don't sit still, always busy with all kinds of projects. This mainly contains contributions for [Home Assistant][home-assistant] (home configurations and integrations), Laravel websites and python packages on [PyPi][pypi] for various integrations. So my head is full of ideas 🤯, on [my blog website][website] you will find more background information from some projects.
 
 <p align="center">
     <a href="https://www.home-assistant.io">
         <img src="https://raw.githubusercontent.com/klaasnicolaas/ColoredBadges/prod/svg/dev/tools/home_assistant_blue.svg" alt="home-assistant" style="vertical-align:top; margin:4px">
     </a>
 </p>
+
+📯 Would you like to stay informed about project release updates? Follow [Mister Assistant][mister-assistant] 🤖 on Twitter, my assistant bot that tweets on project updates. Some great projects I have worked on:
+
+- [Home Assistant Glow](https://github.com/klaasnicolaas/home-assistant-glow)
+- [Python - Omnik Inverter](https://github.com/klaasnicolaas/python-omnikinverter)
+- [Python - P1 Monitor](https://github.com/klaasnicolaas/python-p1monitor)
+- [Python - Garages Amsterdam](https://github.com/klaasnicolaas/python-garages-amsterdam)
+- [Python - Pure Energie](https://github.com/klaasnicolaas/python-pem)
 
 <!-- #### 🔨 Hacktoberfest 2021
 
@@ -71,32 +79,13 @@ In recent years I have gained a lot of knowledge in various programming language
     </a>
 </p>
 
----
-### 🧰 Tools / Service box
-
-I'm familiar with the following platforms or software programs and of course this list is far from complete
-
-<p align="center">
-    <a href="https://code.visualstudio.com">
-        <img src="https://raw.githubusercontent.com/klaasnicolaas/ColoredBadges/master/svg/dev/tools/visualstudio_code.svg" alt="vscode" style="vertical-align:top; margin:4px">
-    </a>
-    <a href="https://developer.android.com/studio">
-        <img src="https://raw.githubusercontent.com/klaasnicolaas/ColoredBadges/master/svg/dev/tools/android_studio.svg" alt="android-studio" style="vertical-align:top; margin:4px">
-    </a>
-    <a href="https://www.digitalocean.com">
-        <img src="https://raw.githubusercontent.com/klaasnicolaas/ColoredBadges/master/svg/dev/services/digitalocean.svg" alt="digitalocean" style="vertical-align:top; margin:4px">
-    </a>
-    <a href="https://www.scaleway.com/en">
-        <img src="https://raw.githubusercontent.com/klaasnicolaas/ColoredBadges/prod/svg/dev/services/scaleway.svg" alt="scaleway" style="vertical-align:top; margin:4px">
-    </a>
-    <a href="https://www.github.com">
-        <img src="https://raw.githubusercontent.com/klaasnicolaas/ColoredBadges/prod/svg/dev/services/github.svg" alt="github" style="vertical-align:top; margin:4px">
-    </a>
-    <a href="https://www.jetbrains.com/pycharm">
-        <img src="https://raw.githubusercontent.com/klaasnicolaas/ColoredBadges/master/svg/dev/tools/jetbrains_pycharm.svg" alt="pycharm" style="vertical-align:top; margin:4px">
-    </a>
-</p>
-
 <br>
 
-![Klaasnicolaas github stats](https://github-readme-stats.vercel.app/api?username=klaasnicolaas&count_private=true&show_icons=true) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=klaasnicolaas&hide=Ruby,Shell&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=klaasnicolaas&hide=Ruby,Shell&layout=compact)
+![Klaasnicolaas github stats](https://github-readme-stats.vercel.app/api?username=klaasnicolaas&count_private=true&show_icons=true)
+
+<!-- LINKS -->
+[mister-assistant]: https://twitter.com/MisterAssistant
+[home-assistant]: https://www.home-assistant.io
+[website]: https://student-techlife.com
+[pypi]: https://pypi.org
