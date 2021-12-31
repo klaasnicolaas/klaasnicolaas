@@ -28,7 +28,7 @@ As you can see I don't sit still, always busy with all kinds of projects. This m
     </a>
 </p>
 
-📯 Would you like to stay informed about project release updates? Follow [Mister Assistant][mister-assistant] 🤖 on Twitter, it's my assistant bot that tweets on project updates. For example, it tweets about these great projects I've worked on:
+📯 Would you like to stay informed about project release updates? Follow [Mister Assistant][mister-assistant] 🤖 on Twitter, it's my assistant bot that tweets on project updates. For example, these great projects I've worked on:
 
 - [Home Assistant Glow](https://github.com/klaasnicolaas/home-assistant-glow)
 - [Python - Omnik Inverter](https://github.com/klaasnicolaas/python-omnikinverter)
