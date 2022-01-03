@@ -22,6 +22,12 @@ But be welcome! Take a look around and if you have any questions, feel free to a
 
 As you can see I don't sit still, always busy with all kinds of projects. This mainly contains contributions for [Home Assistant][home-assistant] (home configurations and integrations), Laravel websites and python packages on [PyPi][pypi] for various integrations. So my head is full of ideas 🤯, on [my blog website][website] you will find more background information from some projects.
 
+Home Assistant configuration repositories (from most to least active):
+
+- [Student-homeassistant-config][student-config] (My studio)
+- [Smarty-homeassistant-config][smarty-config] (New house)
+- [Smarthome-homeassistant-config][smarthome-config] (Old house)
+
 <p align="center">
     <a href="https://www.home-assistant.io">
         <img src="https://raw.githubusercontent.com/klaasnicolaas/ColoredBadges/prod/svg/dev/tools/home_assistant_blue.svg" alt="home-assistant" style="vertical-align:top; margin:4px">
@@ -89,3 +95,8 @@ In recent years I have gained a lot of knowledge in various programming language
 [home-assistant]: https://www.home-assistant.io
 [website]: https://student-techlife.com
 [pypi]: https://pypi.org
+
+<!-- Home Assistant configs -->
+[student-config]: https://github.com/klaasnicolaas/Student-homeassistant-config
+[smarty-config]: https://github.com/klaasnicolaas/smarty-homeassistant-config
+[smarthome-config]: https://github.com/klaasnicolaas/Smarthome-homeassistant-config
