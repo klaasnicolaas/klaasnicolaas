@@ -87,8 +87,18 @@ In recent years I have gained a lot of knowledge in various programming language
 
 <br>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=klaasnicolaas&hide=Ruby,Shell&layout=compact)
-![Klaasnicolaas github stats](https://github-readme-stats.vercel.app/api?username=klaasnicolaas&count_private=true&show_icons=true)
+<center>
+  <table>
+    <tr style="border: none;">
+        <td style="border: none;">
+            <img width="310px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=klaasnicolaas&hide=Ruby,Shell&layout=compact" />
+        </td>
+        <td style="border: none;">
+            <img align='right' src="https://github-readme-stats.vercel.app/api?username=klaasnicolaas&count_private=true&show_icons=true" width="380">
+        </td>
+    </tr>
+  </table>
+</center>
 
 <!-- LINKS -->
 [mister-assistant]: https://twitter.com/MisterAssistant
