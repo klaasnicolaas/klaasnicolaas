@@ -14,7 +14,10 @@ But be welcome! Take a look around and if you have any questions, feel free to a
     <a href="https://twitter.com/klaasnicolaas">
         <img src="https://raw.githubusercontent.com/klaasnicolaas/ColoredBadges/master/svg/social/twitter.svg" alt="Twitter" style="vertical-align:top; margin:4px">
     </a>
-    <img alt="GitHub Sponsors" src="https://img.shields.io/github/sponsors/klaasnicolaas?style=for-the-badge" style="vertical-align:top; margin:4px">
+</p>
+<p align="center">
+    <img alt="GitHub Sponsors" src="https://img.shields.io/github/sponsors/klaasnicolaas" style="vertical-align:top; margin:4px">
+    <img alt="Visitors" src="https://visitor-badge.glitch.me/badge?page_id=klaasnicolaas.visitor-badge&left_text=My%20Page%20Visitors" style="vertical-align:top; margin:4px">
 </p>
 
 ---
@@ -87,18 +90,12 @@ In recent years I have gained a lot of knowledge in various programming language
 
 <br>
 
-<center>
-  <table>
-    <tr style="border: none;">
-        <td style="border: none;">
-            <img width="310px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=klaasnicolaas&hide=Ruby,Shell&layout=compact" />
-        </td>
-        <td style="border: none;">
-            <img align='right' src="https://github-readme-stats.vercel.app/api?username=klaasnicolaas&count_private=true&show_icons=true" width="380">
-        </td>
+<table>
+    <tr>
+        <td><img width="310px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=klaasnicolaas&hide=Ruby,Shell&layout=compact" /></td>
+        <td><img align='right' src="https://github-readme-stats.vercel.app/api?username=klaasnicolaas&count_private=true&show_icons=true" width="380"></td>
     </tr>
-  </table>
-</center>
+</table>
 
 <!-- LINKS -->
 [mister-assistant]: https://twitter.com/MisterAssistant
