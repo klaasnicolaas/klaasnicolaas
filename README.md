@@ -43,7 +43,7 @@ Home Assistant configuration repositories (from most to least active):
 - [Python - Omnik Inverter](https://github.com/klaasnicolaas/python-omnikinverter)
 - [Python - P1 Monitor](https://github.com/klaasnicolaas/python-p1monitor)
 - [Python - Garages Amsterdam](https://github.com/klaasnicolaas/python-garages-amsterdam)
-- [Python - Pure Energie](https://github.com/klaasnicolaas/python-pem)
+- [Python - Net2Grid](https://github.com/klaasnicolaas/python-net2grid)
 
 <!-- #### 🔨 Hacktoberfest 2021
 
