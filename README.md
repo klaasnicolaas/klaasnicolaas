@@ -39,11 +39,16 @@ Home Assistant configuration repositories (from most to least active):
 
 📯 Would you like to stay informed about project release updates? Follow [Mister Assistant][mister-assistant] 🤖 on Twitter, it's my assistant bot that tweets on project updates. For example, these great projects I've worked on:
 
-- [Home Assistant Glow](https://github.com/klaasnicolaas/home-assistant-glow)
-- [Python - Omnik Inverter](https://github.com/klaasnicolaas/python-omnikinverter)
-- [Python - P1 Monitor](https://github.com/klaasnicolaas/python-p1monitor)
-- [Python - Garages Amsterdam](https://github.com/klaasnicolaas/python-garages-amsterdam)
-- [Python - Net2Grid](https://github.com/klaasnicolaas/python-net2grid)
+| Projects | Type | Description |
+|:---:|:---:|:---:|
+| [Home Assistant Glow](https://github.com/klaasnicolaas/home-assistant-glow) | ESPHome project | ⚡ The power of energy measurements in your house |
+| [Python - Omnik Inverter](https://github.com/klaasnicolaas/python-omnikinverter) | Python package | ☀️ Asynchronous Python client for the Omnik Inverter |
+| [Python - P1 Monitor](https://github.com/klaasnicolaas/python-p1monitor) | Python package | ⚡ Asynchronous Python client for the P1 Monitor |
+| [Python - Garages Amsterdam](https://github.com/klaasnicolaas/python-garages-amsterdam) | Python package | 🚗 Asynchronous Python client for getting garage occupancy in Amsterdam |
+| [Python - Net2Grid](https://github.com/klaasnicolaas/python-net2grid) | Python package | ⚡ Asynchronous Python client for NET2GRID devices |
+| [Python - Autarco](https://github.com/klaasnicolaas/python-autarco) | Python package | ☀️ Asynchronous Python client for the inverters of Autarco |
+| [Spot-Redux](https://github.com/klaasnicolaas/Spot-Redux) | QuadRuped robot | 🤖 Building Quadruped robot for the minor IROB |
+| [WordPress Docker](https://github.com/klaasnicolaas/wordpress-docker) | Docker containers | 🐋 Template repository for running Wordpress inside Docker containers |
 
 <!-- #### 🔨 Hacktoberfest 2021
 
