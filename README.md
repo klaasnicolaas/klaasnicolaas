@@ -50,6 +50,8 @@ Home Assistant configuration repositories (from most to least active):
 | [Spot-Redux](https://github.com/klaasnicolaas/Spot-Redux) | QuadRuped robot | 🤖 Building Quadruped robot for the minor IROB |
 | [WordPress Docker](https://github.com/klaasnicolaas/wordpress-docker) | Docker containers | 🐋 Template repository for running Wordpress inside Docker containers |
 
+Always available to look at the possibilities to create new Python packages or Home Assistant integration, if a REST API is present.
+
 <!-- #### 🔨 Hacktoberfest 2021
 
 October is THE month to contribute to an open source project, the following repositories of mine are participating in Hacktoberfest 2021:
