@@ -40,7 +40,7 @@ Home Assistant configuration repositories (from most to least active):
 📯 Would you like to stay informed about project release updates? Follow [Mister Assistant][mister-assistant] 🤖 on Twitter, it's my assistant bot that tweets on project updates. For example, these great projects I've worked on:
 
 | Projects | Type | Description |
-|:---:|:---:|:---:|
+|---|:---:|---|
 | [Home Assistant Glow](https://github.com/klaasnicolaas/home-assistant-glow) | ESPHome project | ⚡ The power of energy measurements in your house |
 | [Python - Omnik Inverter](https://github.com/klaasnicolaas/python-omnikinverter) | Python package | ☀️ Asynchronous Python client for the Omnik Inverter |
 | [Python - P1 Monitor](https://github.com/klaasnicolaas/python-p1monitor) | Python package | ⚡ Asynchronous Python client for the P1 Monitor |
