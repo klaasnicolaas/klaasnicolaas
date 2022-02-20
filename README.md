@@ -97,6 +97,8 @@ In recent years I have gained a lot of knowledge in various programming language
 
 <br>
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=klaasnicolaas&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+
 <table>
     <tr>
         <td><img width="310px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=klaasnicolaas&hide=Ruby,Shell&layout=compact" /></td>
