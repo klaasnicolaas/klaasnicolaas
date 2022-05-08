@@ -44,7 +44,8 @@ Home Assistant configuration repositories (from most to least active):
 | [Home Assistant Glow](https://github.com/klaasnicolaas/home-assistant-glow) | ESPHome project | ⚡ The power of energy measurements in your house |
 | [Python - Omnik Inverter](https://github.com/klaasnicolaas/python-omnikinverter) | Python package | ☀️ Asynchronous Python client for the Omnik Inverter |
 | [Python - P1 Monitor](https://github.com/klaasnicolaas/python-p1monitor) | Python package | ⚡ Asynchronous Python client for the P1 Monitor |
-| [Python - Garages Amsterdam](https://github.com/klaasnicolaas/python-garages-amsterdam) | Python package | 🚗 Asynchronous Python client for getting garage occupancy in Amsterdam |
+| [Python - Garages Amsterdam](https://github.com/klaasnicolaas/python-garages-amsterdam) | Python package | 🚗 Asynchronous Python client for garage occupancy in Amsterdam |
+| [Python - Parking Eindhoven](https://github.com/klaasnicolaas/python-parking-eindhoven) | Python package | 🅿️ Asynchronous Python client for parking locations in Eindhoven |
 | [Python - GridNet](https://github.com/klaasnicolaas/python-gridnet) | Python package | ⚡ Asynchronous Python client for Net2Grid devices |
 | [Python - Autarco](https://github.com/klaasnicolaas/python-autarco) | Python package | ☀️ Asynchronous Python client for the inverters of Autarco |
 | [Spot-Redux](https://github.com/klaasnicolaas/Spot-Redux) | QuadRuped robot | 🤖 Building Quadruped robot for the minor IROB |
