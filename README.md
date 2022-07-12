@@ -48,6 +48,7 @@ Home Assistant configuration repositories (from most to least active):
 | [Python - Parking Eindhoven](https://github.com/klaasnicolaas/python-parking-eindhoven) | Python package | 🅿️ Asynchronous Python client for parking locations in Eindhoven |
 | [Python - GridNet](https://github.com/klaasnicolaas/python-gridnet) | Python package | ⚡ Asynchronous Python client for Net2Grid devices |
 | [Python - Autarco](https://github.com/klaasnicolaas/python-autarco) | Python package | ☀️ Asynchronous Python client for the inverters of Autarco |
+| [Python - Hamburg](https://github.com/klaasnicolaas/python-hamburg) | Python package | 🗃️ Asynchronous Python client for the urban datasets of Hamburg |
 | [Spot-Redux](https://github.com/klaasnicolaas/Spot-Redux) | QuadRuped robot | 🤖 Building Quadruped robot for the minor IROB |
 | [WordPress Docker](https://github.com/klaasnicolaas/wordpress-docker) | Docker containers | 🐋 Template repository for running Wordpress inside Docker containers |
 
