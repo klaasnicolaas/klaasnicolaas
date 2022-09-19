@@ -40,10 +40,10 @@ Home Assistant configuration repositories (from most to least active):
     </a>
 </p>
 
-📯 Would you like to stay informed about project release updates? Follow [Mister Assistant][mister-assistant] 🤖 on Twitter, it's my assistant bot that tweets on project updates. For example, these great projects I've worked on:
+Would you like to stay informed about project release updates? Follow [Mister Assistant][mister-assistant] 🤖 on Twitter, it's my assistant bot that tweets on project updates. For example, these great projects I've worked on:
 
 | Projects | Type | Description |
-|---|:---:|---|
+|----------|:----:|-------------|
 | [Home Assistant Glow](https://github.com/klaasnicolaas/home-assistant-glow) | ESPHome project | ⚡ The power of energy measurements in your house |
 | [Python - Omnik Inverter](https://github.com/klaasnicolaas/python-omnikinverter) | Python package | ☀️ Asynchronous Python client for the Omnik Inverter |
 | [Python - P1 Monitor](https://github.com/klaasnicolaas/python-p1monitor) | Python package | ⚡ Asynchronous Python client for the P1 Monitor |
@@ -57,14 +57,9 @@ Home Assistant configuration repositories (from most to least active):
 
 A full list of all python packages that I've worked on can be found on [PyPi](https://pypi.org/user/klaasnicolaas/).
 
-<!-- #### 🔨 Hacktoberfest 2021
+### 🔨 Hacktoberfest 2022
 
-October is THE month to contribute to an open source project, the following repositories of mine are participating in Hacktoberfest 2021:
-
-- [Home Assistant Glow](https://github.com/klaasnicolaas/home-assistant-glow)
-- [Python - Omnik Inverter](https://github.com/klaasnicolaas/python-omnikinverter)
-- [Python - P1 Monitor](https://github.com/klaasnicolaas/python-p1monitor)
-- [Garages Amsterdam](https://github.com/klaasnicolaas/garages_amsterdam) -->
+October is THE month to contribute to an open source project, you can find here a [list of repositories][list-hacktoberfest] from me that is participation with Hacktoberfest 2022.
 
 ---
 
@@ -116,6 +111,7 @@ In recent years I have gained a lot of knowledge in various programming language
 [home-assistant]: https://www.home-assistant.io
 [website]: https://student-techlife.com
 [pypi]: https://pypi.org
+[list-hacktoberfest]: https://github.com/klaasnicolaas?tab=repositories&q=hacktoberfest
 
 <!-- Home Assistant configs -->
 [student-config]: https://github.com/klaasnicolaas/Student-homeassistant-config
