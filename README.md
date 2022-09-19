@@ -17,6 +17,9 @@ But be welcome! Take a look around and if you have any questions, feel free to a
 </p>
 <p align="center">
     <img alt="GitHub Sponsors" src="https://img.shields.io/github/sponsors/klaasnicolaas" style="vertical-align:top; margin:4px">
+    <a href="https://user-badge.committers.top/netherlands_private/klaasnicolaas">
+        <img alt="GitHub followers" src="https://user-badge.committers.top/netherlands_private/klaasnicolaas.svg" style="vertical-align:top; margin:4px">
+    </a>
     <img alt="Visitors" src="https://visitor-badge.glitch.me/badge?page_id=klaasnicolaas.visitor-badge&left_text=My%20Page%20Visitors" style="vertical-align:top; margin:4px">
 </p>
 
