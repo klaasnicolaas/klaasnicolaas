@@ -1,8 +1,9 @@
 ### Just say hello! 🤙🏻
 
-I'm a student 👨‍🎓 at the university of applied science in Leiden (The Netherlands) and I study computer science specialized in the field of interaction technology (UX/UI). Is there already going to ring a 🔔? I always say: _"We build bridges so that a user can use systems, websites or apps in the most pleasant way possible"_.
+I'm a student 👨‍🎓 at the university of applied science in Leiden (The Netherlands) and I study computer science specialized in the field of interaction technology / UX engineer. Be welcome! Take a look around and if you have any questions, feel free to ask them via email or socials!
 
-But be welcome! Take a look around and if you have any questions, feel free to ask them via email or socials!
+_"We build bridges so that a user can use systems, websites or apps in the most pleasant way possible"_.
+
 
 <p align="center">
     <a href="https://student-techlife.com">
@@ -26,7 +27,7 @@ But be welcome! Take a look around and if you have any questions, feel free to a
 ---
 ### 🚀 Projects
 
-As you can see I don't sit still, always busy with all kinds of projects. This mainly contains contributions for [Home Assistant][home-assistant] (home configurations and integrations), Laravel websites and python packages on [PyPi][pypi] for various integrations. So my head is full of ideas 🤯, on [my blog website][website] you will find more background information from some projects.
+As you can see I never sit still, always busy with all kinds of projects. This mainly contains contributions for [Home Assistant][home-assistant] (home configurations and integrations), building Laravel platforms and python packages on [PyPi][pypi] for various integrations. So my head is full of ideas 🤯, on [my blog website][website] you will find more background information from some projects.
 
 Home Assistant configuration repositories (from most to least active):
 
@@ -50,10 +51,8 @@ Would you like to stay informed about project release updates? Follow [Mister As
 | [Python - Garages Amsterdam](https://github.com/klaasnicolaas/python-garages-amsterdam) | Python package | 🚗 Asynchronous Python client for garage occupancy in Amsterdam |
 | [Python - Eindhoven](https://github.com/klaasnicolaas/python-eindhoven) | Python package | 🅿️ Asynchronous Python client for the open datasets of Eindhoven |
 | [Python - GridNet](https://github.com/klaasnicolaas/python-gridnet) | Python package | ⚡ Asynchronous Python client for Net2Grid devices |
-| [Python - Autarco](https://github.com/klaasnicolaas/python-autarco) | Python package | ☀️ Asynchronous Python client for the inverters of Autarco |
 | [Spot-Redux](https://github.com/klaasnicolaas/Spot-Redux) | QuadRuped robot | 🤖 Building Quadruped robot for the minor IROB |
 | [Laravel Docker](https://github.com/klaasnicolaas/laravel-docker) | Docker containers | 🐳 Template repository for running Laravel inside Docker containers |
-| [WordPress Docker](https://github.com/klaasnicolaas/wordpress-docker) | Docker containers | 🐋 Template repository for running Wordpress inside Docker containers |
 
 A full list of all python packages that I've worked on can be found on [PyPi](https://pypi.org/user/klaasnicolaas/).
 
@@ -68,33 +67,30 @@ October is THE month to contribute to an open source project, you can find here 
 In recent years I have gained a lot of knowledge in various programming languages, frameworks and other systems.
 
 <p align="center">
-    <img src="https://raw.githubusercontent.com/klaasnicolaas/ColoredBadges/master/svg/dev/languages/html.svg" alt="html" style="vertical-align:top; margin:4px">
-    <img src="https://raw.githubusercontent.com/klaasnicolaas/ColoredBadges/master/svg/dev/languages/css3.svg" alt="css3" style="vertical-align:top; margin:4px">
-    <img src="https://raw.githubusercontent.com/klaasnicolaas/ColoredBadges/master/svg/dev/languages/sass.svg" alt="sass" style="vertical-align:top; margin:4px">
-    <img src="https://raw.githubusercontent.com/klaasnicolaas/ColoredBadges/master/svg/dev/languages/js.svg" alt="javascript" style="vertical-align:top; margin:4px">
-    <img src="https://raw.githubusercontent.com/klaasnicolaas/ColoredBadges/master/svg/dev/languages/php.svg" alt="php" style="vertical-align:top; margin:4px">
     <img src="https://raw.githubusercontent.com/klaasnicolaas/ColoredBadges/master/svg/dev/languages/python.svg" alt="python" style="vertical-align:top; margin:4px">
-    <img src="https://raw.githubusercontent.com/klaasnicolaas/ColoredBadges/master/svg/dev/languages/java.svg" alt="java" style="vertical-align:top; margin:4px">
-    <a href="https://www.docker.com">
-        <img src="https://raw.githubusercontent.com/klaasnicolaas/ColoredBadges/master/svg/dev/tools/docker.svg" alt="docker" style="vertical-align:top; margin:4px">
-    </a>
     <a href="https://laravel.com">
         <img src="https://raw.githubusercontent.com/klaasnicolaas/ColoredBadges/master/svg/dev/frameworks/laravel.svg" alt="laravel" style="vertical-align:top; margin:4px">
     </a>
+    <a href="https://git-scm.com">
+        <img src="https://raw.githubusercontent.com/klaasnicolaas/ColoredBadges/prod/svg/dev/tools/git.svg" alt="git" style="vertical-align:top; margin:4px">
+    </a>
+    <img src="https://raw.githubusercontent.com/klaasnicolaas/ColoredBadges/master/svg/dev/languages/php.svg" alt="php" style="vertical-align:top; margin:4px">
+    <a href="https://www.docker.com">
+        <img src="https://raw.githubusercontent.com/klaasnicolaas/ColoredBadges/master/svg/dev/tools/docker.svg" alt="docker" style="vertical-align:top; margin:4px">
+    </a>
+    <img src="https://raw.githubusercontent.com/klaasnicolaas/ColoredBadges/master/svg/dev/frameworks/flutter.svg" alt="flutter" style="vertical-align:top; margin:4px">
+    <img src="https://raw.githubusercontent.com/klaasnicolaas/ColoredBadges/master/svg/dev/languages/dart.svg" alt="dart" style="vertical-align:top; margin:4px">
+    <img src="https://raw.githubusercontent.com/klaasnicolaas/ColoredBadges/master/svg/dev/languages/sass.svg" alt="sass" style="vertical-align:top; margin:4px">
+    <img src="https://raw.githubusercontent.com/klaasnicolaas/ColoredBadges/master/svg/dev/languages/js.svg" alt="javascript" style="vertical-align:top; margin:4px">
     <a href="https://reactjs.org">
         <img src="https://raw.githubusercontent.com/klaasnicolaas/ColoredBadges/master/svg/dev/frameworks/react.svg" alt="react" style="vertical-align:top; margin:4px">
     </a>
     <a href="https://getbootstrap.com">
         <img src="https://raw.githubusercontent.com/klaasnicolaas/ColoredBadges/master/svg/dev/frameworks/bootstrap.svg" alt="bootstrap" style="vertical-align:top; margin:4px">
     </a>
-    <a href="https://git-scm.com">
-        <img src="https://raw.githubusercontent.com/klaasnicolaas/ColoredBadges/prod/svg/dev/tools/git.svg" alt="git" style="vertical-align:top; margin:4px">
-    </a>
 </p>
 
-<br>
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=klaasnicolaas&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+<!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=klaasnicolaas&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats) -->
 
 <table>
     <tr>
