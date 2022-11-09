@@ -57,9 +57,9 @@ Would you like to stay informed about project release updates? Follow [Mister As
 
 A full list of all python packages that I've worked on can be found on [PyPi](https://pypi.org/user/klaasnicolaas/).
 
-### 🔨 Hacktoberfest 2022
+<!-- ### 🔨 Hacktoberfest 2022
 
-October is THE month to contribute to an open source project, you can find here a [list of repositories][list-hacktoberfest] from me that is participation with Hacktoberfest 2022.
+October is THE month to contribute to an open source project, you can find here a [list of repositories][list-hacktoberfest] from me that is participation with Hacktoberfest 2022. -->
 
 ---
 
@@ -86,9 +86,6 @@ In recent years I have gained a lot of knowledge in various programming language
     </a>
     <a href="https://getbootstrap.com">
         <img src="https://raw.githubusercontent.com/klaasnicolaas/ColoredBadges/master/svg/dev/frameworks/bootstrap.svg" alt="bootstrap" style="vertical-align:top; margin:4px">
-    </a>
-    <a href="https://jquery.com">
-        <img src="https://raw.githubusercontent.com/klaasnicolaas/ColoredBadges/master/svg/dev/frameworks/jquery.svg" alt="jquery" style="vertical-align:top; margin:4px">
     </a>
     <a href="https://git-scm.com">
         <img src="https://raw.githubusercontent.com/klaasnicolaas/ColoredBadges/prod/svg/dev/tools/git.svg" alt="git" style="vertical-align:top; margin:4px">
