@@ -1,8 +1,8 @@
 ### Just say hello! 🤙🏻
 
-I'm a student 👨‍🎓 at the university of applied science in Leiden (The Netherlands) and I study computer science specialized in the field of interaction technology / UX engineer. Be welcome! Take a look around and if you have any questions, feel free to ask them via email or socials!
+Nice to meet you! 👋 I'm Klaas, an (almost) graduated student in the field of UX Engineering based in The Netherlands. Be welcome! Feel free to take a look around and if you have any questions, feel free to ask them via email or social media!
 
-_"We build bridges so that a user can use systems, websites or apps in the most pleasant way possible"_.
+_"Building bridges so that a user can use system, websites or apps in the most pleasant way possible"_.
 
 
 <p align="center">
@@ -21,13 +21,12 @@ _"We build bridges so that a user can use systems, websites or apps in the most 
     <a href="https://user-badge.committers.top/netherlands_private/klaasnicolaas">
         <img alt="GitHub followers" src="https://user-badge.committers.top/netherlands_private/klaasnicolaas.svg" style="vertical-align:top; margin:4px">
     </a>
-    <img alt="Visitors" src="https://visitor-badge.glitch.me/badge?page_id=klaasnicolaas.visitor-badge&left_text=My%20Page%20Visitors" style="vertical-align:top; margin:4px">
 </p>
 
 ---
 ### 🚀 Projects
 
-As you can see I never sit still, always busy with all kinds of projects. This mainly contains contributions for [Home Assistant][home-assistant] (home configurations and integrations), building Laravel platforms and python packages on [PyPi][pypi] for various integrations. So my head is full of ideas 🤯, on [my blog website][website] you will find more background information from some projects.
+As you can see I never sit still, always busy with all kinds of projects. This mainly contains contributions for [Home Assistant][home-assistant], building Laravel platforms and python packages pushed to [PyPi][pypi] for various integrations. So my head is full of ideas 🤯, on [my blog website][website] you will find more background information from some projects.
 
 Home Assistant configuration repositories (from most to least active):
 
@@ -46,49 +45,16 @@ Would you like to stay informed about project release updates? Follow [Mister As
 | Projects | Type | Description |
 |----------|:----:|-------------|
 | [Home Assistant Glow](https://github.com/klaasnicolaas/home-assistant-glow) | ESPHome project | ⚡ The power of energy measurements in your house |
-| [Python - Omnik Inverter](https://github.com/klaasnicolaas/python-omnikinverter) | Python package | ☀️ Asynchronous Python client for the Omnik Inverter |
-| [Python - P1 Monitor](https://github.com/klaasnicolaas/python-p1monitor) | Python package | ⚡ Asynchronous Python client for the P1 Monitor |
-| [Python - Garages Amsterdam](https://github.com/klaasnicolaas/python-garages-amsterdam) | Python package | 🚗 Asynchronous Python client for garage occupancy in Amsterdam |
-| [Python - Eindhoven](https://github.com/klaasnicolaas/python-eindhoven) | Python package | 🅿️ Asynchronous Python client for the open datasets of Eindhoven |
-| [Python - GridNet](https://github.com/klaasnicolaas/python-gridnet) | Python package | ⚡ Asynchronous Python client for Net2Grid devices |
+| (many) [Python Packages](https://github.com/klaasnicolaas?tab=repositories&q=python) | Python packages | 🐍 Various Python packages |
+| [Py-package Template](https://github.com/klaasnicolaas/pypackage-template) | Template | 🐍 Python package template for new projects |
+| [Laravel Template](https://github.com/klaasnicolaas/laravel-template) | Template | 🚀 Laravel template for new projects |
 | [Spot-Redux](https://github.com/klaasnicolaas/Spot-Redux) | QuadRuped robot | 🤖 Building Quadruped robot for the minor IROB |
-| [Laravel Docker](https://github.com/klaasnicolaas/laravel-docker) | Docker containers | 🐳 Template repository for running Laravel inside Docker containers |
 
 A full list of all python packages that I've worked on can be found on [PyPi](https://pypi.org/user/klaasnicolaas/).
 
-<!-- ### 🔨 Hacktoberfest 2022
+<!-- ### 🔨 Hacktoberfest 2024
 
-October is THE month to contribute to an open source project, you can find here a [list of repositories][list-hacktoberfest] from me that is participation with Hacktoberfest 2022. -->
-
----
-
-### 🌠 My knowledge
-
-In recent years I have gained a lot of knowledge in various programming languages, frameworks and other systems.
-
-<p align="center">
-    <img src="https://raw.githubusercontent.com/klaasnicolaas/ColoredBadges/master/svg/dev/languages/python.svg" alt="python" style="vertical-align:top; margin:4px">
-    <a href="https://laravel.com">
-        <img src="https://raw.githubusercontent.com/klaasnicolaas/ColoredBadges/master/svg/dev/frameworks/laravel.svg" alt="laravel" style="vertical-align:top; margin:4px">
-    </a>
-    <a href="https://git-scm.com">
-        <img src="https://raw.githubusercontent.com/klaasnicolaas/ColoredBadges/prod/svg/dev/tools/git.svg" alt="git" style="vertical-align:top; margin:4px">
-    </a>
-    <img src="https://raw.githubusercontent.com/klaasnicolaas/ColoredBadges/master/svg/dev/languages/php.svg" alt="php" style="vertical-align:top; margin:4px">
-    <a href="https://www.docker.com">
-        <img src="https://raw.githubusercontent.com/klaasnicolaas/ColoredBadges/master/svg/dev/tools/docker.svg" alt="docker" style="vertical-align:top; margin:4px">
-    </a>
-    <img src="https://raw.githubusercontent.com/klaasnicolaas/ColoredBadges/master/svg/dev/frameworks/flutter.svg" alt="flutter" style="vertical-align:top; margin:4px">
-    <img src="https://raw.githubusercontent.com/klaasnicolaas/ColoredBadges/master/svg/dev/languages/dart.svg" alt="dart" style="vertical-align:top; margin:4px">
-    <img src="https://raw.githubusercontent.com/klaasnicolaas/ColoredBadges/master/svg/dev/languages/sass.svg" alt="sass" style="vertical-align:top; margin:4px">
-    <img src="https://raw.githubusercontent.com/klaasnicolaas/ColoredBadges/master/svg/dev/languages/js.svg" alt="javascript" style="vertical-align:top; margin:4px">
-    <a href="https://reactjs.org">
-        <img src="https://raw.githubusercontent.com/klaasnicolaas/ColoredBadges/master/svg/dev/frameworks/react.svg" alt="react" style="vertical-align:top; margin:4px">
-    </a>
-    <a href="https://getbootstrap.com">
-        <img src="https://raw.githubusercontent.com/klaasnicolaas/ColoredBadges/master/svg/dev/frameworks/bootstrap.svg" alt="bootstrap" style="vertical-align:top; margin:4px">
-    </a>
-</p>
+October is THE month to contribute to an open source project, you can find here a [list of repositories][list-hacktoberfest] from me that is participation with Hacktoberfest 2024. -->
 
 <!-- LINKS -->
 [mister-assistant]: https://twitter.com/MisterAssistant
