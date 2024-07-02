@@ -29,7 +29,7 @@ As you can see, I never sit still—I'm always busy with a variety of projects. 
 
 Home Assistant configuration repositories (from most to least active):
 
-| | |
+| My student studio | The smarty house |
 |:---|:---|
 | [Student-homeassistant-config][student-config] | [Smarty-homeassistant-config][smarty-config] |
 
