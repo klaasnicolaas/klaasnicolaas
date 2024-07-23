@@ -1,9 +1,8 @@
-### Just say hello! 🤙🏻
+## Just say hello! 🤙🏻
 
-Nice to meet you too, Klaas! 👋 I'm Klaas, a UX Engineer based in The Netherlands. Welcome! Please take a look around, and if you have any questions, feel free to reach out via email or social media.
+Nice to meet you! 👋 I'm Klaas, a UX Engineer based in The Netherlands.
 
 _"Building bridges so that a user can use system, websites or apps in the most pleasant way possible"_.
-
 
 <p align="center">
     <a href="https://student-techlife.com">
@@ -22,15 +21,14 @@ _"Building bridges so that a user can use system, websites or apps in the most p
     </a>
 </p>
 
-
 ### 🚀 Projects
 
-As you can see, I never sit still—I'm always busy with a variety of projects. Member of [Home Assistant][home-assistant], building Laravel platforms, and creating Python packages pushed to [PyPi][pypi] for various integrations. My head is full of ideas 🤯, and on [my blog website][website], you'll find more background information on some of these projects.
+As you can see, I never sit still. I'm always busy with a variety of projects. Member of [Home Assistant][home-assistant], building Laravel platforms, and creating Python packages pushed to [PyPi][pypi] for various integrations. My head is full of ideas 🤯, and on [my blog website][website], you'll find more background information on some of these projects.
 
 Home Assistant configuration repositories (from most to least active):
 
 | My student studio | The smarty house |
-|:---|:---|
+| :---------------- | :--------------- |
 | [Student-homeassistant-config][student-config] | [Smarty-homeassistant-config][smarty-config] |
 
 Would you like to stay informed about project release updates? Follow [Mister Assistant][mister-assistant] 🤖 on Twitter, it's my assistant bot that tweets on project updates. For example, these great projects I've worked on:
