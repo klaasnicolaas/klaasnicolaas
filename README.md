@@ -44,9 +44,9 @@ Would you like to stay informed about project release updates? Follow [Mister As
 
 A full list of all python packages that I've worked on can be found on [PyPi](https://pypi.org/user/klaasnicolaas/).
 
-### 🔨 Hacktoberfest 2024
+<!-- ### 🔨 Hacktoberfest 2024
 
-October is THE month to contribute to an open source project, you can find here a [list of repositories][list-hacktoberfest] from me that is participation with Hacktoberfest 2024.
+October is THE month to contribute to an open source project, you can find here a [list of repositories][list-hacktoberfest] from me that is participation with Hacktoberfest 2024. -->
 
 ## 🫶 Support me
 
