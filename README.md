@@ -1,66 +1,55 @@
-## Just say hello! 🤙🏻
-
-Nice to meet you! 👋 I'm Klaas, a UX Engineer based in The Netherlands.
-
-_"Building bridges so that a user can use system, websites or apps in the most pleasant way possible"_.
-
-<!-- <p align="center">
-    <a href="https://student-techlife.com">
-        <img src="https://raw.githubusercontent.com/MikeCodesDotNET/MikeCodesDotNET/a8abbf37441f3253f74ea255a47f289208d7568c/Resources/personalBlog.svg" alt="Personal" style="vertical-align:top; margin:4px">
-    </a>
-    <a href="https://www.linkedin.com/in/klaasschoute">
-        <img src="https://raw.githubusercontent.com/klaasnicolaas/ColoredBadges/master/svg/social/linkedin.svg" alt="LinkedIn" style="vertical-align:top; margin:4px">
-    </a>
-    <a href="https://twitter.com/klaasnicolaas">
-        <img src="https://raw.githubusercontent.com/klaasnicolaas/ColoredBadges/master/svg/social/twitter.svg" alt="Twitter" style="vertical-align:top; margin:4px">
-    </a>
+<p align="center">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=180&section=header&text=Hey%20there!%20I'm%20Klaas%20%F0%9F%91%8B&fontSize=40&fontColor=fff&animation=fadeIn" alt="header" />
 </p>
+
+Software engineer and open-source developer based in the Netherlands. I work as a UX Engineer at [Mr.Green Offices](https://mrgreenoffices.nl/en/) / [NetOS](https://net-os.com/), building smart workspace software that helps organizations get more out of their office environment.
+
+Outside of work, I maintain Python libraries and build [Home Assistant][home-assistant] integrations. Most of my projects begin as personal tools and eventually grow into reusable packages on PyPI. I also founded [NIPKaart][nipkaart], a map platform for disabled parking card holders, and [Dutch Drone Squad][dutchdronesquad], a community focused on FPV drone racing
+
+- 🏠 Member of [Home Assistant][home-assistant], building integrations & libraries
+- 🐍 Maintainer of several Python packages
+- 🌐 Full-stack development with Laravel, React & TypeScript
+- 🔌 Connecting APIs, services and physical hardware
+- 🏎️ FPV drones, 3D printing & photography in my spare time
+
 <p align="center">
     <a href="https://user-badge.committers.top/netherlands_private/klaasnicolaas">
-        <img alt="GitHub followers" src="https://user-badge.committers.top/netherlands_private/klaasnicolaas.svg" style="vertical-align:top; margin:4px">
+        <img alt="Committers top" src="https://user-badge.committers.top/netherlands_private/klaasnicolaas.svg" style="vertical-align:top; margin:4px">
     </a>
-</p> -->
+</p>
+
+---
 
 ### 🚀 Projects
 
-As you can see, I never sit still. I'm always busy with a variety of projects. Member of [Home Assistant][home-assistant], building Laravel platforms, or creating Python packages for various Home Assistant integrations. On [my blog website][website], you'll find more background information on some of these projects.
+Active on [PyPI](https://pypi.org/user/klaasnicolaas/). My bot [@MisterAssistant][mister-assistant] posts release updates on X.
 
-Home Assistant configuration repositories (from most to least active):
+| Project | Description | Stars |
+|---------|-------------|:-----:|
+| [Home Assistant Glow](https://github.com/klaasnicolaas/home-assistant-glow) | ⚡ Energy monitoring with ESPHome | ![Stars](https://img.shields.io/github/stars/klaasnicolaas/home-assistant-glow?style=flat-square) |
+| [Python Packages](https://github.com/klaasnicolaas?tab=repositories&q=python) | 🐍 Home Assistant integration libraries | |
+| [Py-package Template](https://github.com/klaasnicolaas/pypackage-template) | 📦 Template for new Python packages | ![Stars](https://img.shields.io/github/stars/klaasnicolaas/pypackage-template?style=flat-square) |
+| [GitHub Actions](https://github.com/marketplace?query=klaasnicolaas) | 🤖 Reusable CI/CD workflows | |
+| [Laravel Template](https://github.com/klaasnicolaas/laravel-template) | 🚀 Starter template for Laravel projects | ![Stars](https://img.shields.io/github/stars/klaasnicolaas/laravel-template?style=flat-square) |
 
-| My student studio | The smarty house |
-| :---------------- | :--------------- |
-| [Student-homeassistant-config][student-config] | [Smarty-homeassistant-config][smarty-config] |
+Home Assistant configs: [Student studio][student-config] · [Smarty house][smarty-config]
 
-Would you like to stay informed about project release updates? Follow [Mister Assistant][mister-assistant] 🤖 on X (Twitter), it's my assistant bot that posts on project updates. For example, these great projects I've worked on:
+---
 
-| Projects | Type | Description |
-|----------|:-----|-------------|
-| [Home Assistant Glow](https://github.com/klaasnicolaas/home-assistant-glow) | ESPHome project | ⚡ The power of energy measurements in your house |
-| (many) [Python Packages](https://github.com/klaasnicolaas?tab=repositories&q=python) | Python packages | 🐍 Various Python packages |
-| [Py-package Template](https://github.com/klaasnicolaas/pypackage-template) | Template | 🐍 Python package template for new projects |
-| [GitHub Actions](https://github.com/marketplace?query=klaasnicolaas) | GitHub Actions | 🚀 Various GitHub Actions |
-| [Laravel Template](https://github.com/klaasnicolaas/laravel-template) | Template | 🚀 Laravel template for new projects |
-| [Spot-Redux](https://github.com/klaasnicolaas/Spot-Redux) | QuadRuped robot | 🤖 Building Quadruped robot for the minor IROB |
+### 🫶 Support me
 
-A full list of all python packages that I've worked on can be found on [PyPi](https://pypi.org/user/klaasnicolaas/).
-
-<!-- ### 🔨 Hacktoberfest 2024
-
-October is THE month to contribute to an open source project, you can find here a [list of repositories][list-hacktoberfest] from me that is participation with Hacktoberfest 2024. -->
-
-## 🫶 Support me
-
-If you find my work valuable or want to show your appreciation, you can support me via [Ko-fi](https://ko-fi.com/klaasnicolaas) or by becoming a [sponsor](https://github.com/sponsors/klaasnicolaas) on GitHub!
+Most of what I build is free and open-source. If something I made saved you time or ended up in your project, a small contribution means a lot and helps keep things maintained.
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/klaasnicolaas)
+
+<p align="center">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=100&section=footer" alt="footer" />
+</p>
 
 <!-- LINKS -->
 [mister-assistant]: https://x.com/MisterAssistant
 [home-assistant]: https://www.home-assistant.io
-[website]: https://student-techlife.com
-[pypi]: https://pypi.org
-[list-hacktoberfest]: https://github.com/klaasnicolaas?tab=repositories&q=hacktoberfest
-
-<!-- Home Assistant configs -->
+[nipkaart]: https://github.com/nipkaart
+[dutchdronesquad]: https://github.com/dutchdronesquad
 [student-config]: https://github.com/klaasnicolaas/Student-homeassistant-config
 [smarty-config]: https://github.com/klaasnicolaas/smarty-homeassistant-config
